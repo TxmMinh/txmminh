@@ -58,10 +58,10 @@ Student at [University of Information Technology (UIT) - VNU HCM](https://en.uit
 
 - Databases: `MS SQL Server` `MySQL` `Oracle` `Redis`  
 
-- Deployment: `Docker`, `docker-compose`
+- Deployment: `Docker` `docker-compose`
 
 - ML/AI: `Tensorflow` `Keras` `Scikit-learn` `Numpy` `Matplotlib`
 
 - Dev Tools: `Git` `Docker` `IntelliJ IDEA` `Eclipse` `Visual Studio Code`  `Postman`  `Spring Tool Suite`
 
-- Soft skills: `Critical thinking`, `Computational thinking`, `Teamwork`, `Team Leader`, `Communication`
+- Soft skills: `Critical thinking` `Computational thinking` `Teamwork` `Team Leader` `Communication`
