@@ -24,9 +24,14 @@ Here are some ideas to get you started:
 
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
+## 🔭 I’m currently working on Software Engineer Intern at Shinhan DS Vietnam
+
+
 ## Contact information
 
 - Email: xuanminh2107@gmail.com
+
+- Linkedin: https://www.linkedin.com/in/txmminh217/ 
 
 - Address: Ho Chi Minh, Vietnam
 
