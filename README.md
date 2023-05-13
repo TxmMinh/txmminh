@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on Software Engineer Intern at Shinhan DS Vietnam
 
+> Received training on Shinhan Bank's Core Banking technology. 
+
+> Utilize C/C++ programming language to develop the Back-end system and JavaScript to develop the Front-end application. 
+
+> Analyze requirements from the team leader and build the Front-end application to communicate with users. 
 
 ## Contact information
 
