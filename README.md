@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
-## 🔭 I’m currently working on Software Engineer Intern at Shinhan DS Vietnam
+## 🔭 I’m currently working on Software Engineer at Shinhan DS Vietnam
 
 > Received training on Shinhan Bank's Core Banking technology. 
 
