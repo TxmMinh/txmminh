@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
-## 🔭 I’m currently working on Software Engineer at Shinhan DS Vietnam
+## 🔭 I’m currently working as a Java Developer at Sparkminds
 
-> Received training on Shinhan Bank's Core Banking technology. 
-
-> Utilize C/C++ programming language to develop the Back-end system and JavaScript to develop the Front-end application. 
-
-> Analyze requirements from the team leader and build the Front-end application to communicate with users. 
+> Responsible for the design, development, and management of Java-based applications
 
 ## Contact information
 
