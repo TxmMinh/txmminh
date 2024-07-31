@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 # Tran Xuan Minh
 
-> My name is Minh, and I am currently studying in the Talented Bachelor Program at the University of Information Technology with a major in Computer Science.
+> My name is Minh, and I have two years of experience in software development. I have worked as a Full Stack Developer at ShinhanDS Vietnam and am currently employed at SparkMinds J.S.C. My work involves using technologies such as Java Spring Boot, React JS, and Vue JS..
 
-> I have experience in software development and have participated in internships at various companies such as Shinhan Ds as a Software Engineer Intern, and as an intern developing applications and systems at the CNSC Cybersecurity Center.
-
+> I hold a Bachelor's degree in the Talented Program from the University of Information Technology, majoring in Computer Science.
+ 
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
 ## 🔭 I’m currently working as a Java Developer at Sparkminds
