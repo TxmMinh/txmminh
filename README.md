@@ -52,6 +52,8 @@ Student at [University of Information Technology (UIT) - VNU HCM](https://en.uit
 
 - Web Back-end Technologies: ` Spring Boot` `Laravel` 
 
+- Web Front-end Technologies: ` React.js` `Vue.js`
+  
 - Databases: `MS SQL Server` `MySQL` `Oracle` `Redis`  
 
 - Deployment: `Docker` `docker-compose`
