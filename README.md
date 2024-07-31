@@ -54,7 +54,7 @@ Student at [University of Information Technology (UIT) - VNU HCM](https://en.uit
 
 - Web Front-end Technologies: ` React.js` `Vue.js`
   
-- Databases: `MS SQL Server` `MySQL` `Oracle` `Redis`  
+- Databases: `MS SQL Server` `MySQL` `Oracle` `Redis` `PostgreSQL`  
 
 - Deployment: `Docker` `docker-compose`
 
