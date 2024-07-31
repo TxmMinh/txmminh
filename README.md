@@ -24,9 +24,9 @@ Here are some ideas to get you started:
  
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
-## 🔭 I’m currently working as a Java Developer at Sparkminds
+## 🔭 I’m currently working as a Full-stack Developer at Sparkminds
 
-> Responsible for the design, development, and management of Java-based applications
+> Responsible for designing, developing, and managing applications based on Java and React.js.
 
 ## Contact information
 
