@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Tran Xuan Minh
 
-> My name is Minh, and I have two years of experience in software development. I have worked as a Full Stack Developer at ShinhanDS Vietnam and am currently employed at SparkMinds J.S.C. My work involves using technologies such as Java Spring Boot, React JS, and Vue JS.
+> My name is Minh, and I have two years of experience in software development. I have worked as a Fullstack Developer at ShinhanDS Vietnam and am currently employed at SparkMinds J.S.C. My work involves using technologies such as Java Spring Boot, React JS, and Vue JS.
 
 > I hold a Bachelor's degree in the Talented Program from the University of Information Technology, majoring in Computer Science.
  
