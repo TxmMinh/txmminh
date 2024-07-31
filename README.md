@@ -42,8 +42,6 @@ Student at [University of Information Technology (UIT) - VNU HCM](https://en.uit
 
 - Major: Computer Science
 
-- Gadurated: Supposed to graduate in 2024
-
 ## Skills
 
 - Programming languages: `Java` `JavaScript` `C/C++` `Python` `PHP`
