@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 # Tran Xuan Minh
 
-> My name is Minh, and I have two years of experience in software development. I have worked as a Fullstack Developer at ShinhanDS Vietnam and am currently employed at SparkMinds J.S.C. My work involves using technologies such as Java Spring Boot, React JS, and Vue JS.
+> My name is Minh. I have over 2 years at a Fullstack Developer position. My work involves using technologies such as Java Spring Boot, React JS, and Angular.
 
 > I hold a Bachelor's degree in the Honor Program from the University of Information Technology, majoring in Computer Science.
  
 > In my free time, I write code, develop software, read technology blogs, and research AI.
 
-## 🔭 I’m currently working as a Full-stack Developer at Sparkminds
+## 🔭 I’m currently working as a Full-stack Developer at Terralogic
 
-> Responsible for designing, developing, and managing applications based on Java and React.js.
+> Responsible for designing, developing, and managing applications based on Java and Angular.
 
 ## Contact information
 
@@ -50,7 +50,7 @@ Student at [University of Information Technology (UIT) - VNU HCM](https://en.uit
 
 - Web Back-end Technologies: ` Spring Boot` `Laravel` 
 
-- Web Front-end Technologies: ` React.js` `Vue.js`
+- Web Front-end Technologies: ` React.js` `Vue.js` `Angular`
   
 - Databases: `MS SQL Server` `MySQL` `Oracle` `Redis` `PostgreSQL`  
 
